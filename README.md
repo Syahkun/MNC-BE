@@ -14,11 +14,17 @@ How to run apps
     app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:root@127.0.0.1:3306/mnc'
 
     database = mysql
+    
     driver = pymsql
+    
     username = root
+    
     password = root
+    
     port = 3306
+    
     database name = mnc
+    
 
 4. Migrate your database with commands 
     => flask db init
