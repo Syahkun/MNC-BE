@@ -1,6 +1,4 @@
 # MNC-BE
-
-requirements:
 # Python 
 # Flask
 # Mysql
