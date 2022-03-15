@@ -1,9 +1,9 @@
 # MNC-BE
 
-requierements:
-Python 
-Flask
-Mysql
+requirements:
+# Python 
+# Flask
+# Mysql
 
 How to run apps
 
