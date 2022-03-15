@@ -1,0 +1,17 @@
+
+# HELPER
+# ASK ANYTHING YOU WANT
+
+
+SUCCESS = "success"
+CREDIT = "CREDIT"
+DEBIT = "DEBIT"
+TOPUP = "TOPUP"
+PAYMENT = "PAYMENT"
+TRANSFER = "TRANSFER"
+
+
+# ALL RESPON JSON
+
+RESULT_SUCCESS = {'status': 'SUCCESS', 'result': None}
+BALANCE_IS_NOT_ENOUGH = {'message': 'Balance is not enough'}
